@@ -375,10 +375,10 @@ workflow manually from the Actions tab of the repository, on the branch or tag t
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/pre765">
-                    <img src="https://avatars.githubusercontent.com/u/199960263?v=4" width="100;" alt="pre765"/>
+                <a href="https://github.com/HafidIdrissi">
+                    <img src="https://avatars.githubusercontent.com/u/57899900?v=4" width="100;" alt="HafidIdrissi"/>
                     <br />
-                    <sub><b>pre765</b></sub>
+                    <sub><b>Hafid Idrissi</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -389,10 +389,10 @@ workflow manually from the Actions tab of the repository, on the branch or tag t
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/HafidIdrissi">
-                    <img src="https://avatars.githubusercontent.com/u/57899900?v=4" width="100;" alt="HafidIdrissi"/>
+                <a href="https://github.com/pre765">
+                    <img src="https://avatars.githubusercontent.com/u/199960263?v=4" width="100;" alt="pre765"/>
                     <br />
-                    <sub><b>Hafid Idrissi</b></sub>
+                    <sub><b>pre765</b></sub>
                 </a>
             </td>
             <td align="center">
